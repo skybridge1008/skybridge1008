@@ -1,10 +1,10 @@
-### About me 👋
-Wanna be hacker
+## About me
+ - BoB(Best of the Best) 11th generation
 
-### Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cgs09046@gmail.com)](mailto:cgs09046@gmail.com) cgs09046@gmail.com
+## Contact
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cgs09046@gmail.com)](mailto:cgs09046@gmail.com)
 
-### Interests
+## Interests
 - Pwnable
 - Web Hacking
 - Bug Hunting
