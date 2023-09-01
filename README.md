@@ -1,13 +1,14 @@
-## About me
- - BoB(Best of the Best) 11th generation
+# About me
+- *A newbie hacker*😊
+- BoB(Best of the Best) 11th generation
 
-## Contact
+# Contact
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cgs09046@gmail.com)](mailto:cgs09046@gmail.com)
 
-## Interests
-- Pwnable
+# Interests
+- **Pwnable**
 - Web Hacking
-- Bug Hunting
+- ~~Bug Hunting~~
 
 
 
