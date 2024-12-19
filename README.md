@@ -2,6 +2,9 @@
 - *A newbie hacker*😊
 - KITRI BoB(Best of the Best) 11th Vulnerability Analysis
 
+# Awards
+- ELECCON24 10th as rand2sky
+
 # Contact
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cgs09046@gmail.com)](mailto:cgs09046@gmail.com)
 
